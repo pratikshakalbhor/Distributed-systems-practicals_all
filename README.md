@@ -39,7 +39,16 @@ All programs are written in **JavaScript (Node.js)** and focus on clarity and un
 ### 8. Distributed Chat Logging
 - Logging chat messages into file using `appendFile()`
 
+
 ---
 
-## 📂 File Structure
+## ⚙️ How to Run
 
+1. Install **Node.js**
+2. Open terminal in the required folder
+3. Run the server first:
+```bash
+node server_divide.js
+
+Open a new terminal and run the client:
+node client_divide.js
